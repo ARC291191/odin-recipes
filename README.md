@@ -1,1 +1,1 @@
-# odin-recipes
+A recipe project. The first HTML only project on TOP.# odin-recipes
